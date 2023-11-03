@@ -1,0 +1,5 @@
+Cumulative Volume Delta for Buys: 4668072028.420432
+Cumulative Volume Delta for Sells: 3996242453.080065
+cvd total 671829575.3403673
+Total fillQuantity: 8664314481.500837
+Total Fees Generated in USD: 104060.14978569832
