@@ -1,0 +1,9 @@
++------------------------------------------------------+-------------+
+|                        Metric                        |    Value    |
++------------------------------------------------------+-------------+
+|             Cumulated Volume Delta (CVD)             |  671829575  |
+|         Volume Weighted Average Price (VWAP)         |  0.00432937 |
+|                    Buyback price                     |  0.00605001 |
+|                  Bitget Loss in USD                  |   1155976   |
+| Market value of missing coins at announcement in USD | 14535032.86 |
++------------------------------------------------------+-------------+
