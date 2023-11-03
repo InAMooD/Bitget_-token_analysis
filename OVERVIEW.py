@@ -2,12 +2,11 @@ import csv
 from prettytable import PrettyTable
 import matplotlib.pyplot as plt
 
-# Initialize variables
+
 cumulated_volume_delta = 0
 sum_trade_value = 0
 total_quantity = 0
 
-# Open and read the CSV file
 csv_file = 'TOKENUSDT_SPBL_fills.csv'
 
 with open(csv_file, 'r') as file:
