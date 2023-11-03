@@ -1,6 +1,5 @@
 import csv
 
-# Input and output file names
 input_file = '_rawTOKENUSDT_SPBL_fills.csv'
 output_file = 'TOKENUSDT_SPBL_fills.csv'
 
