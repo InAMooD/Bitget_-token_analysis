@@ -7,7 +7,7 @@ total_fill_quantity = 0
 total_fees_usd = 0
 
 file_name = "TOKENUSDT_SPBL_fills.csv"
-fee_percentage = 0.002  # Make sure to set your actual fee percentage here
+fee_percentage = 0.002  
 
 with open(file_name, 'r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
